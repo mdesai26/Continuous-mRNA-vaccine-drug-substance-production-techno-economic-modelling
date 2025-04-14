@@ -1,5 +1,5 @@
 # mRNA-vaccine-drug-substance-production-techno-economic-modelling
-Modelling files for the project “**Techno-economic Modelling of Continuous mRNA Vaccine Manufacturing, studying Influenza virus as case study.**, conducted at the University of Sheffield (2024). The study utilizes SuperPro Designer and Excel to simulate, evaluate, and analyze the production process of mRNA vaccine drug substances with a focus on continuous manufacturing strategies.
+Modelling files for the project “**Techno-economic Modelling of Continuous mRNA Vaccine Manufacturing, studying Influenza virus as case study**, conducted at the University of Sheffield (2024). The study utilizes SuperPro Designer and Excel to simulate, evaluate, and analyze the production process of mRNA vaccine drug substances with a focus on continuous manufacturing strategies.
 
 
 This repository contains the following SuperPro and Excel files:
